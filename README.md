@@ -46,7 +46,7 @@ Push the project to Heroku as a worker (not web). This is done by editing the Pr
 
 ### For pushing your changes onto the official bot
 
-Either invite your new version of the app to the server, or if you're unable to invoke any changes to the bot then send a pull request to this repository with your new code and ping the current bot maintainer.
+Send a pull request to this repository with your new code and ping the current bot maintainer or any of the admins. You will be invited as a collaborator for the Heroku project, where you can then push your code.
 
 Current bot maintainer: - [@DHS Isaac C](https://github.com/Iscaraca)
 
